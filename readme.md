@@ -1,5 +1,7 @@
 # Manufacturing-Process-Advisor
-Automated the manufacturing process selection for a given sheet metal part using machine learning algorithms
+Code and Part details can't be uploaded here as the project was done during the internship with John Deere. All the project details are uploaded here.
+
+Automated the manufacturing process selection for a given sheet metal part using machine learning algorithms.
 
 **Problem Statement**
 To predict the most suitable manufacturing process, either stamping, casting, or welding, for a given metal part.
